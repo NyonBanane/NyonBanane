@@ -1,1 +1,63 @@
-<h1>Hi 👋, I'm Nyon Banane</h1><p>I am passionate about development</p><h2>🚀 Languages and Tools I Use</h2><p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="42" height="42" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a></p><h2>⚡️ Where to find me</h2><p><a target="_blank" href="https://dev.to/nyonbanane" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a><a target="_blank" href="https://www.youtube.com/@nyonbanane" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=#cc0000" alt="youtube" /></a></p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NyonBanane&show_icons=true&locale=en" alt="NyonBanane" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NyonBanane&" alt="NyonBanane" /></p><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NyonBanane&show_icons=true&locale=en&layout=compact" alt="NyonBanane" /></p><p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NyonBanane" alt="NyonBanane" /></a></p>
+<!--START_SECTION:TITLE-->
+# <p align = center>Hi , I'm NyonBanane&ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "NyonBanane" width="35"></p>
+<!--END_SECTION:TITLE-->
+
+<!--START_SECTION:SUBTITLE-->
+### <p align = center>I am passionate about development</p>
+<!--END_SECTION:SUBTITLE-->
+
+<!--START_SECTION:WORK-->
+***<p align = center>🔭 I'm currently working on </p>***
+***<p align = center>🌱 I'm currently learning Java/Unreal Engine</p>***
+***<p align = center>📫 How to reach me </p>***
+***<p align = center>👨‍💻 All of my projects are available at - https://nyon-banane.fr/</p>***
+***<p align = center>⚡ Fun fact I am a developer</p>***
+<!--END_SECTION:WORK-->
+
+<!--START_SECTION:SKILL-->
+## <p align = center> 🖥️ 	Tech Stack </p>
+<div align = center>
+<img src="https://img.shields.io/badge/java-%23b07219.svg?style=flat&logo=java&logoColor=white" alt=java /> &ensp;
+<img src="https://img.shields.io/badge/lua-%23000080.svg?style=flat&logo=lua&logoColor=white" alt=lua /> &ensp;
+<img src="https://img.shields.io/badge/python-%233572A5.svg?style=flat&logo=python&logoColor=white" alt=python /> &ensp;
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" alt=nginx /> &ensp;
+<img src="https://img.shields.io/badge/unreal engine-%23282829.svg?style=flat&logo=unreal engine&logoColor=white" alt=unreal engine /> &ensp;
+<img src="https://img.shields.io/badge/linux-%23ffcc33.svg?style=flat&logo=linux&logoColor=white" alt=linux /> &ensp;
+<img src="https://img.shields.io/badge/figma-%2300d47b.svg?style=flat&logo=figma&logoColor=white" alt=figma /> &ensp;
+</div>
+<!--END_SECTION:SKILL--><br/>
+
+<!--START_SECTION:SOCIAL-->
+## <p align = center> 🌏 	Connect with me </p>
+<div align = center>
+<a href=https://github.com/NyonBanane ><img src="https://img.shields.io/badge/github-NyonBanane-%231c1e21.svg?style=flat&logo=github&logoColor=white" 
+                alt=github /></a> &ensp;
+<a href=https://www.youtube.com/@nyonbanane ><img src="https://img.shields.io/badge/youtube-@nyonbanane-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" 
+                alt=youtube /></a> &ensp;
+<a href=https://www.twitch.tv/nyonbanane ><img src="https://img.shields.io/badge/twitch-nyonbanane-%236441a5.svg?style=flat&logo=twitch&logoColor=white" 
+                alt=twitch /></a> &ensp;
+<a href=https://dev.to/nyonbanane ><img src="https://img.shields.io/badge/dev.to-nyonbanane-%23242323.svg?style=flat&logo=dev.to&logoColor=white" 
+                alt=dev.to /></a> &ensp;
+</div>
+<!--END_SECTION:SOCIAL--><br/>
+
+<!--START_SECTION:README-STATS-->
+<div align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=NyonBanane&show_icons=true&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt = "NyonBanane"/> 
+</div>
+<!--END_SECTION:README-STATS--><br/>
+
+<!--START_SECTION:README-STATS-LANGUAGES-->
+<div align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NyonBanane&langs_count=8&theme=aura&hide_border=false" alt = "NyonBanane"/> 
+</div>
+<!--END_SECTION:README-STATS-LANGUAGES--><br/>
+
+<!--START_SECTION:STREAK-STATS-->
+<div align = "center">
+    <img src = "https://streak-stats.demolab.com/?user=NyonBanane&theme=aura&hide_border=false" alt = "NyonBanane"/> 
+</div>
+<!--END_SECTION:STREAK-STATS--><br/>
+
+
+<!-- Created with CreateME profile readme generator-->
