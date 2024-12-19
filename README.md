@@ -8,7 +8,7 @@
 
 <!--START_SECTION:WORK-->
 ***<p align = center>🔭 I'm currently working on </p>***
-***<p align = center>🌱 I'm currently learning Java/Unreal Engine</p>***
+***<p align = center>🌱 I'm currently learning C</p>***
 ***<p align = center>📫 How to reach me </p>***
 ***<p align = center>👨‍💻 All of my projects are available at - https://nyon-banane.fr/</p>***
 ***<p align = center>⚡ Fun fact I am a developer</p>***
@@ -17,8 +17,8 @@
 <!--START_SECTION:SKILL-->
 ## <p align = center> 🖥️ 	Tech Stack </p>
 <div align = center>
-<img src="https://img.shields.io/badge/java-%23b07219.svg?style=flat&logo=java&logoColor=white" alt=java /> &ensp;
 <img src="https://img.shields.io/badge/lua-%23000080.svg?style=flat&logo=lua&logoColor=white" alt=lua /> &ensp;
+<img src="https://img.shields.io/badge/C-%23000080.svg?style=flat&logo=c&logoColor=white" alt=C /> &ensp;
 <img src="https://img.shields.io/badge/python-%233572A5.svg?style=flat&logo=python&logoColor=white" alt=python /> &ensp;
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" alt=nginx /> &ensp;
 <img src="https://img.shields.io/badge/unreal engine-%23282829.svg?style=flat&logo=unreal engine&logoColor=white" alt=unreal engine /> &ensp;
