@@ -10,7 +10,7 @@
 ***<p align = center>🔭 I'm currently working on </p>***
 ***<p align = center>🌱 I'm currently learning C</p>***
 ***<p align = center>📫 How to reach me </p>***
-***<p align = center>👨‍💻 All of my projects are available at - https://nyon-banane.fr/</p>***
+***<p align = center>👨‍💻 All of my projects are available at - https://prokect.fr/</p>***
 ***<p align = center>⚡ Fun fact I am a developer</p>***
 <!--END_SECTION:WORK-->
 
